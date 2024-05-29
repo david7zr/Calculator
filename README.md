@@ -1,2 +1,2 @@
 # Calculator
-Calculator in developed in Java
+Calculator developed in Java
